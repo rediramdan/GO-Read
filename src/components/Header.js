@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
         display:'inline-block',
         marginRight:150,
         [theme.breakpoints.up('md')]:{
-            marginRight:700,
+            marginRight:600,
         },
         marginTop:20
     },
